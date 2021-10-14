@@ -1,1 +1,3 @@
-Responder preguntas y marcar con el nombre de los integrantes
+Integrantes:
+Daniela Parra Martínez, d.parram2@uniandes.edu.co, 202013036
+Juliana Sofia Ahumada Arcos, j.ahumadaa@uniandes.edu.co, 201921471
